@@ -1,0 +1,8 @@
+[package]
+name = "sonos"
+version = "0.1.0"
+authors = ["Tim Peters <tim@wirelab.nl>"]
+
+[dependencies]
+sonos = "0.1.2"
+clap = "2.31.1"
